@@ -6,6 +6,9 @@
 
 As an international student, finding a place to live in New York City has been a personal challenge. The high rents, the fierce competition, and the diversity of neighborhoods make it a daunting experience. This project stems from my own struggles navigating the NYC rental market, and it focuses on analyzing Airbnb data to better understand pricing trends, popular neighborhoods, and more.
 
+![NYC-Underrated-Parks-HERO](https://github.com/user-attachments/assets/fba8d028-74f3-4358-9848-173663c52ad3)
+
+
 The project uses **Pyspark**, **Pandas**, **Matplotlib**, and **Seaborn** for data analysis, visualization, and modeling, providing insights into the NYC Airbnb market.
 
 The key sections of the project include:
