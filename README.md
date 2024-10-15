@@ -1,6 +1,7 @@
 # NYC Airbnb Analysis: A Personal Project
 
-![Project Image](https://img.shields.io/badge/MachineLearning-Python-blue)
+![Project Image](https://img.shields.io/badge/MachineLearning-PySpark-orange?logo=apache-spark&logoColor=white)
+
 
 ## Overview
 
