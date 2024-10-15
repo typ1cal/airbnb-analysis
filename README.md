@@ -51,8 +51,16 @@ The dataset includes Airbnb listings in New York City, and the preprocessing inv
 
 Several visualizations are created to explore the data, including:
 - **Price Distribution Across Neighborhoods**: Identifying which areas have the highest and lowest listings.
+![image](https://github.com/user-attachments/assets/68beecfb-1eac-4df2-b0dd-9995165ca699)
+
+
 - **Room Type Distribution**: Analyzing the proportion of room types such as entire homes, private rooms, etc.
+![image](https://github.com/user-attachments/assets/22a92dab-d3cd-43c8-bfae-fa6d75163398)
+
+
 - **Price Heatmaps**: Visualizing price trends across different boroughs.
+![image](https://github.com/user-attachments/assets/6968d7ef-0689-4e6a-a952-9bc155ceda5d)
+
 
 ## Modeling
 
