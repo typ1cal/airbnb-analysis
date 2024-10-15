@@ -35,8 +35,8 @@ The key sections of the project include:
 To run this project locally, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/your-username/NYCAirbnbAnalysis.git
-cd NYCAirbnbAnalysis
+git clone https://github.com/typ1cal/airbnb-analysis
+cd airbnb-analysis
 pip install -r requirements.txt
 ```
 
